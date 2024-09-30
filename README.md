@@ -17,7 +17,7 @@ Welcome to the **ERP System** project! This application is designed to streamlin
 - **Backend**: PHP
 - **Frontend**: JavaScript, HTML, CSS
 - **Database**: MySQL
-- **Framework**: MVC
+- **Design pattern**: MVC
 
 ---
 
