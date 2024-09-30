@@ -1,34 +1,45 @@
-### Detailed Project Description
+# 🚀 ERP System - MVC (PHP, JS)
 
-This ERP (Enterprise Resource Planning) system is a web-based application developed to streamline business processes across various departments, such as clients, suppliers, products, and sales management. It follows the **Model-View-Controller (MVC)** architectural pattern to ensure a clean separation of concerns, enhancing scalability and maintainability.
+Welcome to the **ERP System** project! This application is designed to streamline business processes with a user-friendly interface.
 
-#### Key Features:
-1. **Client Management:** Add, edit, and manage client details.
-2. **Supplier Management:** Keep track of suppliers for easy procurement.
-3. **Product Management:** Manage inventory, including product categories, prices, and stock levels.
-4. **Purchases and Invoices:** Handle purchase orders, invoices, and billing information.
-5. **CRUD Operations:** Each module supports full CRUD functionality (Create, Read, Update, Delete), ensuring dynamic data handling.
+---
 
-#### Frontend:
-- **JavaScript & AJAX**: Offers real-time interaction without page reloads.
-- **CSS**: Provides responsive and user-friendly interface design.
+## 📋 Features
+- **Client Management**: Organize client information effortlessly.
+- **Supplier Management**: Track supplier details for efficient procurement.
+- **Product Management**: Manage inventory seamlessly.
+- **Invoice Processing**: Handle purchases and invoices with ease.
+- **Dynamic Forms**: Easy to edit and manage.
 
-#### Backend:
-- **PHP**: Handles server-side logic, processing requests, and communicating with the database.
-- **MySQL**: Used to store and manage data related to clients, suppliers, products, and invoices.
+---
 
-#### Folder Structure:
-- **Controllers:** Manage the business logic for each module.
-- **Models:** Define the data layer and interact with the MySQL database.
-- **Views:** Contain the UI logic, rendering HTML and form inputs.
+## 🛠 Technologies Used
+- **Backend**: PHP
+- **Frontend**: JavaScript, HTML, CSS
+- **Database**: MySQL
+- **Framework**: MVC
 
-#### Installation & Setup:
-1. Clone the repository.
-2. Import the provided MySQL database.
-3. Configure the database connection parameters in the project.
-4. Run the application locally via XAMPP, WAMP, or any PHP server.
+---
 
-#### Future Enhancements:
-- Advanced reporting features.
-- Role-based user authentication.
-- Integration with payment gateways.
+## 📥 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/miguevlsc/ERP---MVC---PHP-JS.git
+   ```
+2. Import the database from the `Db` folder.
+3. Configure database credentials.
+4. Run on a local PHP server (e.g., XAMPP).
+
+---
+
+## 🎮 Usage
+1. Navigate to the root folder.
+2. Access the application via `index.php`.
+3. Manage clients, suppliers, and products through the interface.
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+This format uses emojis, sections, and clear formatting to make the README visually appealing and easy to navigate. Adjust any part as needed!
